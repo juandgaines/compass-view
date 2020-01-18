@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Compass Custom View</string>
+    <string name="fan_control">Fan Control</string>
+    <string name="direction_north">N</string>
+    <string name="direction_north_west">NW</string>
+    <string name="direction_north_east">NE</string>
+    <string name="direction_west">W</string>
+    <string name="direction_east">E</string>
+    <string name="direction_south_west">SW</string>
+    <string name="direction_south_east">SE</string>
+    <string name="direction_south">S</string>
+</resources>
