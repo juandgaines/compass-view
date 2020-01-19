@@ -9,9 +9,5 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        compassView.setOnClickListener {
-            compassView.degress=compassView.degress+10
-        }
     }
 }
